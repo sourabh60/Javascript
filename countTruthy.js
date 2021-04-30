@@ -1,4 +1,4 @@
-const array1 = [0,undefined,7,4,6];
+const array1 = [0,undefined,'',7,4,6];
 console.log(countTruthy(array1));
 
 function countTruthy()
